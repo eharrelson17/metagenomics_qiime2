@@ -1,4 +1,6 @@
 # metagenomics_qiime2
+This is a respitory made to teach qiime2 basics to Dr. Mirza's Metagenomic class.
+
 This is a practice work flow in google colab that will give you a general idea on how to use qiime2 using fasta files.
 
 Please remember, this is a work flow showing how to use qiime2 using pre-processed fasta files, meaning the files have been demultiplexed, primers have been trimmed, and barcode sequences have been trimmed. Qiime2 is often used to work on fastq sequencing files, but for this class we will mostly work on pre processed fasta files. 
