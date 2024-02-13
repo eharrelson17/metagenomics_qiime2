@@ -1,5 +1,5 @@
 sample-id	soil	crop	compost	sampling	replicate
-#q2:types	categorical	categorical	categorical	categorical	numerical 
+#q2:types	categorical	categorical	categorical	categorical	numeric 
 SM-051-16S-BFSL-soy-cy-rhizo-r1	BFSL	Soybean	Yes	Rhizo	1
 SM-052-16S-MFS-soy-cy-rhizo-r1	MFS	Soybean	Yes	Rhizo	1
 SM-057-16S-BFSL-soy-cn-rhizo-r2	BFSL	Soybean	Neg	Rhizo	2
