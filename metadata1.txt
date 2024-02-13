@@ -1,9 +1,7 @@
-sample-id	soil	crop	comp	sample
-#q2:types	categorical	categorical	categorical	categorical
-SM-005-16S-MFS-soy-cn-bulk-r1	MFS	Soybean	Neg	Bulk
-SM-000-16S-BFSL-pre-cn-bulk-pre	BFSL	PRE	Neg	Bulk
-SM-001-16S-MFS-pre-cn-bulk-pre	MFS	PRE	Neg	Bulk
-SM-002-16S-Comp-pre-cn-bulk-pre	COMP	PRE	Neg	Bulk
-SM-003-16S-ACS-pre-cn-bulk-pre	ACS	PRE	Neg	Bulk
-SM-004-16S-BFSL-soy-cn-bulk	BFSL	Soybean	Neg	Bulk
-
+sample-id	soil	crop	compost	sampling	replicate
+#q2:types	categorical	categorical	categorical	categorical	numerical 
+SM-051-16S-BFSL-soy-cy-rhizo-r1	BFSL	Soybean	Yes	Rhizo	1
+SM-052-16S-MFS-soy-cy-rhizo-r1	MFS	Soybean	Yes	Rhizo	1
+SM-057-16S-BFSL-soy-cn-rhizo-r2	BFSL	Soybean	Neg	Rhizo	2
+SM-058-16S-MFS-soy-cn-rhizo-r2	MFS	Soybean	Neg	Rhizo	2
+SM-090-16S-BFSL-soy-cn-nod-r1	BFSL	Soybean	Neg	Nod	1
